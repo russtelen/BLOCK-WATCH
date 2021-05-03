@@ -34,7 +34,9 @@ JWT / Session Based Auth |
 
 ### Screenshots
 
-
+<img src="blockwatch-landing.png" width="800px"/>
+<img src="blockwatch-communities.png" width="800px"/>
+<img src="blockwatch-dashboard.png" width="800px"/>
 
 ### Minimum Viable Products
 
