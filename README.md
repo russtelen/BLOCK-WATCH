@@ -1,27 +1,40 @@
-# BLOCKWATCH
+# BLOCKWATCH : a modern way to connect with your community
 
 ### A Passion Project by 👐🏻 WU Tang, SOULJA BOI Telen 📞👄, Wiz Kuahlifa 🕶
 
+### View it Live: https://blockwatch.netlify.app/ 
+
 ### Overview
-
-<i>Wouldn't you like to know if your neighbour's house got broken into last week? <br/><br/> Don't you wish you remembered to send a welcome gift to that couple who moved in down the street? <br/><br/> How often have we lived in buildings and never even talked to the people on our floor?<br/><br/> Remember those old neighbourhood blockwatches? ...</i>
-
-<b>WE ARE BUILDING A MODERN NEIGHBOURHOOD BLOCKWATCH! </b>
 
 This is a community building app. With this app, we aim to help our users find their community and get to know the people around them. Users can report incidents in their neighborhood, discuss community issues, and schedule community events.
 
 Currently, communities use platforms such as Facebook to form groups however these groups are often by invite only and are difficult to find. This app is targeted to community groups only and aims to help your community become a safer, warmer and more pleasant place to live.
 
-### Tech Stack
+### Tech Stack & Features
 
-React, Express, NodeJS, MongoDB
-passportJS, JWT
+| Tech Stack | App Features | 
+| -------- | -------- | 
+| React | RESTful API
+|Material UI | Client / Server Validations
+|SASS | Authentication using JWT and Session
+|Bootstrap | Custom Middlewares
+|NodeJS | Geocoding locations
+|Express | 3rd Party API (MapBox, open weather map)
+|Heroku |
+|Netlify |
+|MongoDB |
+|Mongoose |
+|MongoAtlas |
+JWT / Session Based Auth | 
+
 
 ### Prototype
 
 [Figma Prototype](https://www.figma.com/file/2CuDFzcuuQ4WG493aJDGKK/BLOCKWATCH?node-id=4%3A1)
 
-### Features
+### Screenshots
+
+
 
 ### Minimum Viable Products
 
